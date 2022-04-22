@@ -1,0 +1,36 @@
+For n_clusters = 2 The KMEANS average silhouette_score is : 0.3273163942500746 
+
+For n_clusters = 2 The SPECTRAL average silhouette_score is : 0.436370757302489 
+
+For n_clusters = 3 The KMEANS average silhouette_score is : 0.46761358158775435 
+
+For n_clusters = 3 The SPECTRAL average silhouette_score is : 0.365677402459876 
+
+For n_clusters = 4 The KMEANS average silhouette_score is : 0.4931963109249047 
+
+For n_clusters = 4 The SPECTRAL average silhouette_score is : 0.3141115836672826 
+
+For n_clusters = 5 The KMEANS average silhouette_score is : 0.553931997444648 
+
+For n_clusters = 5 The SPECTRAL average silhouette_score is : 0.3141115836672826 
+
+For n_clusters = 6 The KMEANS average silhouette_score is : 0.5379675585622219 
+
+For n_clusters = 6 The SPECTRAL average silhouette_score is : 0.2900916171834225 
+
+For n_clusters = 7 The KMEANS average silhouette_score is : 0.5270287298101395 
+
+For n_clusters = 7 The SPECTRAL average silhouette_score is : 0.3141115836672826 
+
+For n_clusters = 8 The KMEANS average silhouette_score is : 0.4548653400650936 
+
+For n_clusters = 8 The SPECTRAL average silhouette_score is : 0.3141115836672826 
+
+For n_clusters = 9 The KMEANS average silhouette_score is : 0.4595491760122954 
+
+For n_clusters = 9 The SPECTRAL average silhouette_score is : 0.3141115836672826 
+
+For n_clusters = 10 The KMEANS average silhouette_score is : 0.4467356774401869 
+
+For n_clusters = 10 The SPECTRAL average silhouette_score is : 0.2900916171834225 
+
